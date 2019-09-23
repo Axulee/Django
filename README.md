@@ -111,10 +111,8 @@ wechatvideo/wechatvideo/urls.py 文件代码：
 
 #2. My project
 
-###3.2. 0.2 version
+##2.1. TODO
 
-###3.3. 0.3 version
+##2.2. TODO
 
-###3.4. 0.4 version
-
-###3.5. 1.0 version
+##2.3. TODO
